@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+SQL.py
+test.py
+mysql_data/
+crawls/
 # Distribution / packaging
 .Python
 build/
