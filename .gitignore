@@ -9,6 +9,7 @@ SQL.py
 test.py
 mysql_data/
 crawls/
+minio_data/
 # Distribution / packaging
 .Python
 build/
