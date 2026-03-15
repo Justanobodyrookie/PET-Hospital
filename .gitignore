@@ -2,9 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+solve.md
 # C extensions
 *.so
+synax.py
 SQL.py
 test.py
 mysql_data/

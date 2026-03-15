@@ -23,8 +23,8 @@ services:
       MINIO_ROOT_USER: ${MINIO_USER}
       MINIO_ROOT_PASSWORD: ${MINIO_PASSWORD}
     ports:
-      - "9020:9020"
-      - "9004:9004"
+      - "9020:9000"
+      - "9021:9004"
     volumes:
       - ./minio_data:/data
     networks:
